@@ -1,0 +1,15 @@
+{
+  "name": "advent-2018",
+  "version": "1.0.0",
+  "description": "Adcent of Code 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ed Brannin",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "lodash": "^4.17.11"
+  }
+}
